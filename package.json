@@ -1,0 +1,11 @@
+{
+  "name": "operations-review-2020",
+  "version": "1.0.0",
+  "description": "Presentation to Operations Review Scrutiny Committee",
+  "repository": "https://github.com/codedemonuk/operations-review-2020",
+  "author": "Pervez Choudhury <cllr.pervez.choudhury@hertsmere.gov.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^3.4.2"
+  }
+}

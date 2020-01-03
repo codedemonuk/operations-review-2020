@@ -26,7 +26,9 @@ I will take questions at the end.
 
 ## Community Safety
 
+Note:
 
+[CSP Action Plan](/attachments/csp-action-plan.pdf)
 
 ---
 
@@ -59,6 +61,8 @@ During the last 12 months the areas which have been considered / queried by the 
 - Determination of planning applications within 8 weeks
 
 The current Corporate Vision runs to 2020 and will need refreshing for 2021.
+
+[Corporate Plan](/attachments/corporate-plan.pdf)
 
 ---
 

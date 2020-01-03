@@ -28,6 +28,45 @@ I will take questions at the end.
 
 Note:
 
+The strategic aims for Hertsmere Community Safety Partnership for 2016-2020 are to:
+
+- Tackle crime, anti-social behaviour and extremism
+- Build community confidence and increase the feelings of safety by empowering our communities
+- Raise awareness and take action against domestic abuse
+- Support and protect vulnerable people affected by emerging issues, such as child sexual exploitation, modern slavery and human trafficking
+
+The partnership have identified the emerging risks in the borough and will work together to tackle these crimes before they become a top risk.
+
+The partnerships action plan focusses on these risks, which are to:
+
+- Identify and prevent serious Youth Violence, with a specific focus on knife crime
+- Tackle illicit drug economy, particularly drug supply lines and protect the most vulnerable by curtailing the growth of county lines
+- Increase feelings of safety and public confidence by reducing anti-social behaviour
+- Tackle Domestic Abuse / Increase the reporting of domestic abuse incidents and raise awareness of domestic abuse and the services available
+- Disrupt and deter criminals involved in child criminal and sexual exploitation and protect vulnerable victims
+
+Some highlights from the action plan include:
+
+- 7 events have been arranged across the borough to raise awareness of county lines, gangs and knife crime in schools, amongst professionals and in the wider community
+- 8 workshops for students in Primary and Secondary Schools have been held to raise awareness of knife crime, county lines, exploitation, drugs and gangs
+- Mini Police Cadets delivered to 11 primary schools within Hertsmere
+- Hertsmere has secured 3 knife bins and have conducted over 13 knife amnesty events across the borough in conjunction with the nationwide Operation Sceptre campaign
+- 23 vulnerable young people have been referred to the Constabulary’s Children & Young People’s Gangs and Schools team
+- Referral of vulnerable people to the MIND Outreach Support Worker – since April 65 people have been referred and 32 are currently being worked with.
+  To date 16 people have been discharged with ‘Goals met’
+- The formation of the Multi-agency Risk Reduction Group (MARRG) which meets on a monthly basis to discuss all ‘anti-social behaviour’ cases, particularly where vulnerability is a factor in 15 different parts of the borough residents have been given the opportunity to complete anti-social behaviour surveys about the effect of asb upon them
+- South West Herts Youth Action Project “Early Intervention” for Youth Violent Crime
+
+Three Rivers, Watford and Hertsmere CSP’s are working in partnership and have developed a Youth Violent Crime Reduction Project in line with the Hertfordshire Serious Violence Strategy, to intervene and prevent young people from becoming victims or perpetrators of violent crime and associated behaviours.
+This project aims to identify and share information amongst a multi-agency panel regarding young people of concern, as either perpetrators of crime, victims of exploitation or those at risk of either behaviours.
+A number of referrals from Hertsmere have been made to the panel.
+We now have a dedicated SOS Project Worker, from St Giles Trust, covering Hertsmere
+
+Highlights of the year have been:
+
+- Winning the  Mick Fogarty Award for Problem-Solving and then subsequently winning the Chief Constable’s award for Problem-Solving
+- The establishment of the Hertsmere Community Safety Board which had its initial meeting last month
+
 [CSP Action Plan](/attachments/csp-action-plan.pdf)
 
 ---

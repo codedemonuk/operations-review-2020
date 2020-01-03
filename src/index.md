@@ -6,6 +6,7 @@ revealOptions:
     transition: 'fade'
 ---
 
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ## Community Safety and Performance
 
 Cllr Pervez Choudhury

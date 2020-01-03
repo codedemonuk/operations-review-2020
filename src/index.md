@@ -26,6 +26,8 @@ I will take questions at the end.
 
 ## Community Safety
 
+
+
 ---
 
 <!-- .slide: data-background="./img/isaac-smith-AT77Q0Njnt0-unsplash.jpg" -->
@@ -35,15 +37,16 @@ Note:
 
 Performance Management Framework was refreshed when the Hertsmere’s 2020 Vision was agreed – attached the image for the 2020 Vision in case you want it.
 
-The Performance Framework is overseen by the Performance Panel which is a Portfolio Holder Panel.  The Performance Panel is a cross party panel with representation across all 3 political parties.  The members of the panel are Cllrs Butler, Eni, Melville, Spencer and Swerling. The panel meets quarterly and is supported by Liz Gore and Hilary Shade.
+The Performance Framework is overseen by the Performance Panel which is a Portfolio Holder Panel.
+The Performance Panel is a cross party panel with representation across all 3 political parties.
+The members of the panel are Cllrs Butler, Eni, Melville, Spencer and Swerling.
+The panel meets quarterly and is supported by Liz Gore and Hilary Shade.
 
 We have 3 sets of Performance Indicators for reporting at officer and Member level as set out below :
 
-Quality Service Indicators (14 in total) covering our key services – these are reported to the Performance Management Panel and the Executive on a quarterly basis.
-
-Key Performance Indicators ( 46 in total) across the services  - these are reported to the Chief Officer Board and escalated to the Performance Management Panel on an exception basis.
-
-Supported by a further 57 Management Information Indicators for the service areas – these are reported to the Chief Officer Board.
+- Quality Service Indicators (14 in total) covering our key services – these are reported to the Performance Management Panel and the Executive on a quarterly basis.
+- Key Performance Indicators ( 46 in total) across the services  - these are reported to the Chief Officer Board and escalated to the Performance Management Panel on an exception basis.
+- Supported by a further 57 Management Information Indicators for the service areas – these are reported to the Chief Officer Board.
 
 The Performance Panel scrutinises the Quality Service Indicators and may request further information or explanations of any performance concerns from the service area and can make recommendations for scrutiny committee consideration if considered appropriate.
 

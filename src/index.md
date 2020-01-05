@@ -117,9 +117,17 @@ The current Corporate Vision runs to 2020 and will need refreshing for 2021.
 
 Note:
 
+Hertsmere is a member of the Hertfordshire CCTV Partnership and has been since 2010.
+In mid 2018 a Governance Review was carried out by Hertfordshire's shared internal audit service.
+This review had 9 high priority findings and most of 2019 was spent implementing the recommendations from those.
 
+A follow up final audit report was compelted in November 2019 and said:
 
-Note:
+> Based on the work performed in this follow up audit, we have concluded that appropriate evidence exists to confirm that all nine of the areas highlighted in our original report are now complete.
+> This outcome clearly demonstrates a positive direction of travel and step change in the governance and financial management arrangements of the CCTV Partnership.
+> The Officer Management Board should be commended for its commitment and diligence in working in collaboration to implement the action plan and in its efforts to provide the Joint Executive with open and transparent reports on progress throughout the period.
+
+In your agenda pack for tonight's meeting there is a more details report into the CCTV partnership.
 
 [CCTV Camera Locations](/attachments/cctc-locations.pdf)
 

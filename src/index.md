@@ -25,7 +25,13 @@ I will take questions at the end.
 
 ---
 
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ## Community Safety
+
+- Partnership
+- Action Plan
+- Youth Violent Crime Reduction Project
+- Highlights
 
 Note:
 
@@ -128,6 +134,7 @@ It has been another busy and successful year for the Information and Digital Ser
 
 +++
 
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ### Business and Projects Support
 
 Note:
@@ -149,6 +156,7 @@ The team are currently working with the Infrastructure Team to ensure applicatio
 
 +++
 
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ### Service Support
 
 Note:
@@ -168,6 +176,7 @@ Both live in Hertsmere and the IDS apprentice scheme is proving to be a success 
 
 +++
 
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ### Infrastructure
 
 Note:
@@ -195,10 +204,12 @@ This will require consideration of available resource.
 
 ---
 
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ## Human Resources
 
 ---
 
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ### Credits
 
 Thanks to:

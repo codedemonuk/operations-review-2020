@@ -109,6 +109,14 @@ The current Corporate Vision runs to 2020 and will need refreshing for 2021.
 <!-- .slide: data-background="./img/nathaniel-dahan-z1uDmJx3ZEQ-unsplash.jpg" -->
 ## CCTV
 
+Note:
+
+
+
+Note:
+
+[CCTV Camera Locations](/attachments/cctc-locations.pdf)
+
 ---
 
 <!-- .slide: data-background="./img/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg" -->

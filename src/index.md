@@ -19,6 +19,7 @@ Tonight I will talk about the various areas of my portfolio including:
 - Performance
 - CCTV
 - Information and Digital Services
+- Customer Services
 - HR
 
 I will take questions at the end.
@@ -83,7 +84,7 @@ Highlights of the year have been:
 
 Note:
 
-Performance Management Framework was refreshed when the Hertsmere’s 2020 Vision was agreed – attached the image for the 2020 Vision in case you want it.
+Performance Management Framework was refreshed when the Hertsmere’s 2020 Vision was agreed.
 
 The Performance Framework is overseen by the Performance Panel which is a Portfolio Holder Panel.
 The Performance Panel is a cross party panel with representation across all 3 political parties.
@@ -121,7 +122,7 @@ Hertsmere is a member of the Hertfordshire CCTV Partnership and has been since 2
 In mid 2018 a Governance Review was carried out by Hertfordshire's shared internal audit service.
 This review had 9 high priority findings and most of 2019 was spent implementing the recommendations from those.
 
-A follow up final audit report was compelted in November 2019 and said:
+A follow up final audit report was completed in November 2019 and said:
 
 > Based on the work performed in this follow up audit, we have concluded that appropriate evidence exists to confirm that all nine of the areas highlighted in our original report are now complete.
 > This outcome clearly demonstrates a positive direction of travel and step change in the governance and financial management arrangements of the CCTV Partnership.
@@ -209,6 +210,46 @@ Cyber security continues to be a major challenge and the team are have and will 
 The drive in the coming year will be to migrate the Councils’ major business systems from the current onsite infrastructure to a hosted and/or cloud hosted infrastructure.
 The team will also be looking at how ‘modern ways of working’ can be implemented at the Council i.e. Microsoft Teams, OneDrive, agile working.
 This will require consideration of available resource.
+
+---
+
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
+## Customer Services
+
+Note:
+
+Project plan to procure a new CRM system completed. 
+A new ‘low code’ system, (Netcall), bought and implementation started. 
+The Customer Services Manager (Lee Gallagher) and the two Website development staff (Yiota and Mhiri) have all successfully completed their training to become accredited Netcall system builders and will help service staff and managers to build their service specific modules.  
+Lee has been involved in Netcall conferences in London and other locations, raising the profile of Hertsmere as a positive case study.
+
+Various improvements to Customer Services facilities and processes recommended by the customer service review group have been implemented, including an internet hub facility in reception and a new appointment system for the Planning Duty Officer phone service. 
+Blinds were installed to the end cubicles to enable them to be used for officer/customer meetings where more privacy is required than the open seating area.
+
+Customer Services achieved the highest rating - ‘outstanding’ when audited for Health and Safety compliance in the service.
+
+The Website Improvement Project has made strong progress in the following areas:
+
+- Council Tax
+- Trees
+- Licensing
+- Land charges and property searches
+- Street naming and numbering
+- Waste A – Z page
+- Commercial waste
+- Over all web content structure
+- Resolved issues with the development environment
+- Council Tax
+- Your council – Democratic services
+- Environmental Health
+
+Staffing in the service area has benefited from active succession planning and effective recruitment and retention of skilled staff including:
+
+- The Customer Services Manager role was upgraded to Customer Services and Digital Transformation Manager. 
+  The post holder has recently  been seconded to the interim role of Executive Manager, working closely with the Interim Managing Director on a wider range of strategic issues including Climate Change.
+- Parts of the Customer Services Manager role have been backfilled by internal promotions within the Customer Services Team at Team Leader level and the service continues to perform well.
+- The Website and Digital Officer roles have been made permanent and filled by the staff who previously worked within the HCC shared service team, thus securing continuity for Hertsmere.
+
 
 ---
 

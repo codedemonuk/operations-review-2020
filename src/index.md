@@ -116,7 +116,7 @@ The current Corporate Vision runs to 2020 and will need refreshing for 2021.
 
 ---
 
-<!-- .slide: data-background="./img/nathaniel-dahan-z1uDmJx3ZEQ-unsplash.jpg" -->
+<!-- .slide: data-background="./img/cctv-2596537_1920.jpg" -->
 ## CCTV
 
 - Partnership
@@ -280,7 +280,7 @@ Staffing in the service area has benefited from active succession planning and e
 
 ---
 
-<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
+<!-- .slide: data-background="./img/perry-grone-lbLgFFlADrY-unsplash.jpg" -->
 ## Human Resources
 
 - Workforce plan

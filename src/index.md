@@ -79,8 +79,11 @@ Highlights of the year have been:
 
 ---
 
-<!-- .slide: data-background="./img/isaac-smith-AT77Q0Njnt0-unsplash.jpg" -->
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ## Performance
+
+- Framework
+- Panel
 
 Note:
 
@@ -116,6 +119,9 @@ The current Corporate Vision runs to 2020 and will need refreshing for 2021.
 <!-- .slide: data-background="./img/nathaniel-dahan-z1uDmJx3ZEQ-unsplash.jpg" -->
 ## CCTV
 
+- Partnership
+- Audit
+
 Note:
 
 Hertsmere is a member of the Hertfordshire CCTV Partnership and has been since 2010.
@@ -146,6 +152,11 @@ It has been another busy and successful year for the Information and Digital Ser
 <!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ### Business and Projects Support
 
+- GIS
+- Planning
+- Asset Management
+- Revenues and Benefits
+
 Note:
 
 The implementation of a new corporate GIS system, ESRI ArcGIS Enterprise, to better enable sharing of spatial data, for staff and the general public.
@@ -159,7 +170,7 @@ This will replace the current Estates Management system and consolidate the Coun
 
 Other major projects have included the migration of the cash management system to a hosted environment (phase 2) - the system will become fully hosted this year and the implementation of a new, more comprehensive public facing Revenues and Benefits system (OPENPortal).
 
-The team are also supporting the implementation of the new cloud hosted CRM system.
+The team are also supporting the implementation of the new cloud hosted CRM system - which I will talk about in more detail later in my presentation.
 
 The team are currently working with the Infrastructure Team to ensure application servers are migrated to supported Windows/SQL versions, this work is ongoing.
 
@@ -167,6 +178,10 @@ The team are currently working with the Infrastructure Team to ensure applicatio
 
 <!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ### Service Support
+
+- New starters induction
+- Herts Building Control Company
+- Apprenticeships
 
 Note:
 
@@ -188,12 +203,18 @@ Both live in Hertsmere and the IDS apprentice scheme is proving to be a success 
 <!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ### Infrastructure
 
+- Email
+- Decomissioning old servers
+- Migration to Cloud Hosting
+- Security
+- Supporting agile working
+
 Note:
 
 There has been a lot of infrastructure changes in the last year.
 Changes to the secure government email system has meant the decommissioning of the GCSX email environment and the implementation of the new dmarc email environment.
-The team have continue the migration of email accounts to O365.
-This project will be completed early next year with all but a few accounts migrated to O365.
+The team have continue the migration of email accounts to Office 365.
+This project will be completed early this year with all but a few accounts migrated to O365.
 
 A major project has been the decommissioning of a large number of Windows 2008 servers which will no longer be supported by Microsoft after January 2020.
 
@@ -216,9 +237,14 @@ This will require consideration of available resource.
 <!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ## Customer Services
 
+- New CRM system
+- Customer services facilities
+- Benchmarking
+- Website improvement
+
 Note:
 
-Project plan to procure a new CRM system completed.
+Project plan to procure a new Customer Relationship Management (CRM) system completed.
 A new ‘low code’ system, (Netcall), bought and implementation started.
 The Customer Services Manager (Lee Gallagher) and the two Website development staff (Yiota and Mhiri) have all successfully completed their training to become accredited Netcall system builders and will help service staff and managers to build their service specific modules.
 Lee has been involved in Netcall conferences in London and other locations, raising the profile of Hertsmere as a positive case study.
@@ -256,6 +282,66 @@ Staffing in the service area has benefited from active succession planning and e
 
 <!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
 ## Human Resources
+
+- Workforce plan
+- Non-executive directors
+- Organisational change
+- Staff wellbeing
+- New staff room
+- Employee relations cases
+
+Note:
+
+A new 5 year Workforce Strategy was approved by the Council in February 2019 following extensive consultation with staff and other stake-holders  and an annual Workforce Plan developed to deliver the first year outcomes in 2019/20.
+Quarterly progress reports were considered by the Local joint Committee and the Personnel Committee in April, July and November 2019.
+It was noted that key policies had been revised or developed including the Sickness Absence Policy and Procedure, the Agile Working Policy, Corporate Health and Safety Policy and the Well Being Policy.
+
+HR supported the recruitment and induction of 6 Non-Executive Directors for the EFS Board and organised training with the Institute of Directors for the Board members of EFS and HDL.
+
+HR helped secure agreement to proposals for the departure of the Chief Executive by mutual agreement in September 2019 and the implementation of interim management arrangements in the Council.
+The Head of HR worked closely with the EELGA Director to prepare proposals for a new senior management structure and consulted relevant stakeholders.
+
+A cross party Member Panel has been convened to carry out the selection assessment for the permanent Managing Director post on 14 January 2020 and recommendations of the Panel will be brought to the Council meeting on 23 January.
+A draft job description for the new post of Executive Director has been prepared and recruitment to this post will commence once a decision has been reached on the Managing Director post.
+
+Several Well-Being Days held in 2019 were very well attended and achieved good feedback from staff.
+Flu jabs were given at the last of these in November.
+A large number of staff achieved awards for zero sickness absence in 2019 and the target for minimal short term sickness absence was achieved throughout the year.
+
+HR led a project to establish and refurbish a new staff room on the second floor and to further develop the adjacent roof garden.
+Staff volunteers assisted with many of the refurbishment tasks and Asset Management supervised the installation of a new kitchen and flooring in the staff room.
+This has been hugely popular with the staff and the facilities are being used much more extensively than was the old staff room in the basement.
+
+An outdoor table tennis table was purchased with funding from the Civil Service Sports College and a member of the LJC ran a tournament which was popular with staff.
+The table has been temporarily relocated in the basement during the inclement weather but will return to the roof garden in the Spring.
+
+HR has assisted management with a number of employee relations cases and whilst details of the individual matters are subject to confidentiality, senior management are aware of the positive outcomes that have been achieved.
+It is possible to report that the Council’s long standing record of zero employment tribunal judgements against it (22 years) remained unbroken in 2019.
+There was one claim lodged at the Employment Tribunal but this was vigorously defended and the claims were all struck out and, unusually, costs were awarded in the Council’s favour.
+
++++
+
+<!-- .slide: data-background="./img/rachael-henning-_x7gBguT-qQ-unsplash.jpg" -->
+## Human Resources
+
+- Apprenticeships
+- Training
+- Equal Pay
+- Supporting agile working
+
+Note:
+
+We are meeting our quota and making full use of the Apprenticeship Levy.
+Of the 7 apprenticeships undertaken in 2019, there are 3 higher level apprenticeships in place.
+One is the management apprenticeship and the other are 2 higher level apprenticeships in Engineering and Asset Management.
+Enquiries have been received from other employees interested in the higher level and/or management apprenticeships and it is hoped that this performance can be sustained.
+
+A range on mandatory training courses have been provided on-line, including mental health awareness training for managers and front-line staff.
+
+The Council has complied with its statutory obligations to publish annual pay policy statements and gender pay gap reports.
+In 2019, the analysis showed that there was no appreciable gender pay gap and women working in the Council are fairly rewarded.
+
+New cloud based HR systems for staff time recording developed in 2019 will better support increased agile working and improve emergency planning capabilities in 2020.
 
 ---
 

@@ -218,15 +218,17 @@ This will require consideration of available resource.
 
 Note:
 
-Project plan to procure a new CRM system completed. 
-A new ‘low code’ system, (Netcall), bought and implementation started. 
-The Customer Services Manager (Lee Gallagher) and the two Website development staff (Yiota and Mhiri) have all successfully completed their training to become accredited Netcall system builders and will help service staff and managers to build their service specific modules.  
+Project plan to procure a new CRM system completed.
+A new ‘low code’ system, (Netcall), bought and implementation started.
+The Customer Services Manager (Lee Gallagher) and the two Website development staff (Yiota and Mhiri) have all successfully completed their training to become accredited Netcall system builders and will help service staff and managers to build their service specific modules.
 Lee has been involved in Netcall conferences in London and other locations, raising the profile of Hertsmere as a positive case study.
 
-Various improvements to Customer Services facilities and processes recommended by the customer service review group have been implemented, including an internet hub facility in reception and a new appointment system for the Planning Duty Officer phone service. 
+Various improvements to Customer Services facilities and processes recommended by the customer service review group have been implemented, including an internet hub facility in reception and a new appointment system for the Planning Duty Officer phone service.
 Blinds were installed to the end cubicles to enable them to be used for officer/customer meetings where more privacy is required than the open seating area.
 
 Customer Services achieved the highest rating - ‘outstanding’ when audited for Health and Safety compliance in the service.
+
+Benchmarking of  Hertfordshire Customer Services in June 2019 showed that Hertsmere had the lowest waiting time for calls to be answered and was in the top 3 for the percentage of calls answered (96%).
 
 The Website Improvement Project has made strong progress in the following areas:
 
@@ -245,11 +247,10 @@ The Website Improvement Project has made strong progress in the following areas:
 
 Staffing in the service area has benefited from active succession planning and effective recruitment and retention of skilled staff including:
 
-- The Customer Services Manager role was upgraded to Customer Services and Digital Transformation Manager. 
+- The Customer Services Manager role was upgraded to Customer Services and Digital Transformation Manager.
   The post holder has recently  been seconded to the interim role of Executive Manager, working closely with the Interim Managing Director on a wider range of strategic issues including Climate Change.
 - Parts of the Customer Services Manager role have been backfilled by internal promotions within the Customer Services Team at Team Leader level and the service continues to perform well.
 - The Website and Digital Officer roles have been made permanent and filled by the staff who previously worked within the HCC shared service team, thus securing continuity for Hertsmere.
-
 
 ---
 
